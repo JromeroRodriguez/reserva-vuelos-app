@@ -1,4 +1,4 @@
-# ✈️ **Reserva de Vuelos App** 🌍
+# ✈️ **Reserva de Vuelos App** 🌍 JOSEPH ROMERO
 
 ¡Bienvenido a la **Reserva de Vuelos App**! Esta es una aplicación para **Android** desarrollada con **Jetpack Compose** que permite a los usuarios seleccionar su **destino** y **fecha de vuelo** de manera fácil e intuitiva. 🛫
 
